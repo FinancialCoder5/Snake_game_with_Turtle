@@ -23,4 +23,4 @@ Basically, this app has a functionality to respond to keystrokes, to move the sn
 
 ### Tech Stack / Libraries
 -	It’s entirely made in python
--	It’s made using the Turtle libraires and core OOP concepts.
+-	It’s made using the Turtle libraire and core OOP concepts.
